@@ -8,6 +8,7 @@ int main(void)
 	printf("입력된 값 : %d\n", a);
 
 
+
 	// -------- 입력 응용 --------
 
 	int age;
@@ -27,6 +28,7 @@ int main(void)
 	printf("이름 입력 : ");
 	scanf("%s", name);
 	printf("%s의 학점은 %c입니다.\n", name, grade);
+
 
 	return 0;
 }
